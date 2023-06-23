@@ -4,6 +4,9 @@ Este repositório contém a minha solução para o Desafio #7DaysOfCode, onde te
 Dia 1: Arrays e Estrutura de Dados
 No primeiro dia do desafio, a meta foi entender e implementar uma das estruturas de dados mais comuns em programação - o Array. Implementei uma versão simplificada de uma lista de compras usando arrays. A lista permite adicionar novos itens, remover itens e listar todos os itens.
 
+Dia 2: Listas Encadeadas e Gerenciamento de Pacientes
+No segundo dia do desafio, a tarefa foi implementar um sistema de gerenciamento de pacientes em um hospital usando listas simplesmente encadeadas. Cada paciente tem um nome, um número de identificação e o estado de saúde atual. O sistema permite adicionar novos pacientes, remover pacientes e listar todos os pacientes em ordem de chegada. A estrutura do nó (paciente) e a estrutura da lista de pacientes foram implementadas e funções para adicionar, remover e listar pacientes foram escritas.
+
 Tecnologias Utilizadas:
 
 Java
