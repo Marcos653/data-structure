@@ -36,9 +36,6 @@ class PacientesLista {
     public Paciente head;
     public Paciente tail;
 
-    public PacientesLista() {
-    }
-
     public void adicionarPaciente(int id, String nome, String estadoSaude) {
         Paciente paciente = new Paciente(id, nome, estadoSaude);
         
