@@ -14,6 +14,10 @@ Dia 3: Listas Duplamente Encadeadas e Controle de Estoque
 
 No terceiro dia, a meta foi implementar um sistema de controle de estoque de uma loja usando listas duplamente encadeadas. Cada produto tem um nome, um código de barras, um preço e uma quantidade em estoque. O sistema permite adicionar novos produtos, remover produtos, atualizar a quantidade em estoque e listar todos os produtos.
 
+Dia 4: Filas e Gerenciamento de Pedidos
+
+No quarto dia do desafio, a meta foi implementar uma fila simples para gerenciar pedidos de um restaurante usando estruturas de dados de filas. Cada pedido é representado por uma string com o nome do prato e a mesa em que foi feito. O sistema permite adicionar novos pedidos na fila, remover pedidos que já foram entregues e listar todos os pedidos na ordem em que foram feitos. Escolhi implementar a fila usando arrays, mas existem outras abordagens possíveis como a utilização de listas encadeadas.
+
 Tecnologias Utilizadas:
 - Java
 - Python
