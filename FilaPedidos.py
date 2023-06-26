@@ -32,13 +32,13 @@ class FilaDePedidos:
             print(pedido)
 
 
-filaDePedidos = FilaDePedidos();
+filaDePedidos = FilaDePedidos()
 
-filaDePedidos.adicionarPedido(0, "marcos", "pizza");
-filaDePedidos.adicionarPedido(1, "anna", "lasagna");
-filaDePedidos.adicionarPedido(2, "lucas", "spaghetti");
-filaDePedidos.adicionarPedido(3, "isabella", "ravioli");
-filaDePedidos.adicionarPedido(4, "sophia", "carbonara");
+filaDePedidos.adicionarPedido(0, "marcos", "pizza")
+filaDePedidos.adicionarPedido(1, "anna", "lasagna")
+filaDePedidos.adicionarPedido(2, "lucas", "spaghetti")
+filaDePedidos.adicionarPedido(3, "isabella", "ravioli")
+filaDePedidos.adicionarPedido(4, "sophia", "carbonara")
 
-filaDePedidos.removePedido();
-filaDePedidos.listaPedidos();
+filaDePedidos.removePedido()
+filaDePedidos.listaPedidos()
