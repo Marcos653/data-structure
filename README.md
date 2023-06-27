@@ -22,6 +22,10 @@ Dia 5: Pilhas e Gerenciamento de Livros
 
 No quinto dia, o desafio foi implementar uma pilha simples para gerenciar o livro. Cada livro tem um nome e o número de páginas. O sistema permite adicionar novos livros na pilha, remover livros, mostrar o livro que está no topo e listar todos os livros da pilha. Eu escolhi implementar a pilha usando arrays, mas existem outras abordagens possíveis como a utilização de listas encadeadas. As operações básicas das pilhas incluem 'push' para adicionar um elemento ao topo da pilha, 'pop' para remover o elemento do topo da pilha, e 'peek' para retornar o elemento do topo da pilha sem removê-lo de fato.
 
+Dia 6: HashMaps e Sistema de Pontuação de Jogos Online
+
+No sexto dia, o desafio foi implementar um sistema de pontuação para jogos online usando a técnica de hashmap. Cada jogador tem um nome de usuário e um número de pontos associados. O sistema permite adicionar novos jogadores, atualizar a pontuação de jogadores existentes, remover jogadores e listar todos os jogadores em ordem decrescente de pontos. Além disso, o sistema é capaz de determinar qual jogador é o vencedor. O sistema foi implementado em três linguagens diferentes: Java, JavaScript e Python.
+
 Tecnologias Utilizadas:
 - Java
 - Python
