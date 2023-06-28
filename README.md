@@ -26,6 +26,10 @@ Dia 6: HashMaps e Sistema de Pontuação de Jogos Online
 
 No sexto dia, o desafio foi implementar um sistema de pontuação para jogos online usando a técnica de hashmap. Cada jogador tem um nome de usuário e um número de pontos associados. O sistema permite adicionar novos jogadores, atualizar a pontuação de jogadores existentes, remover jogadores e listar todos os jogadores em ordem decrescente de pontos. Além disso, o sistema é capaz de determinar qual jogador é o vencedor. O sistema foi implementado em três linguagens diferentes: Java, JavaScript e Python.
 
+Dia 7: Árvores Binárias e Gerenciamento de Estoque
+
+No sétimo e último dia do desafio, a tarefa foi implementar uma árvore binária para gerenciar o estoque de uma loja online. A estrutura da árvore foi desenhada de modo que cada nó representa um produto em estoque, contendo informações como o ID do produto, o nome do produto e a quantidade em estoque. Para isso, foram criadas as classes Produto e Node, que representam os produtos e os nós da árvore, respectivamente.
+
 Tecnologias Utilizadas:
 - Java
 - Python
@@ -51,5 +55,3 @@ Para o código JavaScript (Node.js):
 Agora você deve ver a saída do programa no console.
 
 Nota: Substitua "caminho/para/seu/diretorio" e "nome_do_arquivo" pelo caminho do diretório e nome do arquivo correspondente no seu sistema.
-
-Fique atento para o próximo dia de desafio onde expandirei ainda mais este projeto!
